@@ -6,7 +6,7 @@ import { View, Text, StyleSheet } from 'react-native';
 const SettingsScreen = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Pantalla de Lugar!</Text>
+      <Text style={styles.text}>Pantalla de Settings!</Text>
     </View>
   );
 };
